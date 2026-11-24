@@ -1,4 +1,7 @@
 # Dossiê de Compliance · Portfólio
+
+> 📌 **Repositório de portfólio.** Mostra o que o projeto faz. O código completo fica em repositório privado. Mais projetos no [meu perfil](https://github.com/julliamelo).
+
 Portfólio / Vitrine] Automação RPA para consulta fiscal. Código-fonte principal mantido em repositório privado por segurança.
 
 
